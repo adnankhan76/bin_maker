@@ -22,7 +22,7 @@ Certainly! You can provide specific instructions for installing the necessary de
 2. Open Command Prompt and navigate to the project directory:
 
    ```bash
-   cd path\to\your\project
+   cd bin_maker
    ```
 
 3. Install required libraries:
@@ -30,6 +30,9 @@ Certainly! You can provide specific instructions for installing the necessary de
    ```bash
    pip install colorama requests
    ```
+   ### bin_maker.exe
+   
+       
 
 #### Linux
 
@@ -41,9 +44,9 @@ Certainly! You can provide specific instructions for installing the necessary de
    ```
 
 2. download  git
-   ''' bash
+   ``` bash
       git clone https://github.com/adnankhan76/bin_maker.git
-   '''
+   ```
 
 4. Open a terminal and navigate to the project directory:
 
@@ -69,10 +72,16 @@ Certainly! You can provide specific instructions for installing the necessary de
    pkg install python
    ```
 
+2. download  git
+   ``` bash
+      git clone https://github.com/adnankhan76/bin_maker.git
+   ```
+
 3. Navigate to the project directory:
+   
 
    ```bash
-   cd path/to/your/project
+   cd bin_maker
    ```
 
 4. Install required libraries:
