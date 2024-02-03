@@ -46,7 +46,7 @@ Certainly! You can provide specific instructions for installing the necessary de
 
 2. download  git
    ``` bash
-      git clone https://github.com/adnankhan76/bin_maker.git
+   git clone https://github.com/adnankhan76/bin_maker.git
    ```
 
 4. Open a terminal and navigate to the project directory:
@@ -75,7 +75,7 @@ Certainly! You can provide specific instructions for installing the necessary de
 
 2. download  git
    ``` bash
-      git clone https://github.com/adnankhan76/bin_maker.git
+   git clone https://github.com/adnankhan76/bin_maker.git
    ```
 
 3. Navigate to the project directory:
@@ -101,4 +101,4 @@ Adjust the instructions based on your actual project structure and requirements.
 
 ```bash
 pip install colorama requests
-'''
+
