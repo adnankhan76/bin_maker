@@ -1,3 +1,4 @@
+
 ![BIN Generator Logo](https://raw.githubusercontent.com/adnankhan76/bin_maker/main/logo.png)
 # BIN Information Generator
 
@@ -31,7 +32,8 @@ Certainly! You can provide specific instructions for installing the necessary de
    ```bash
    pip install colorama requests
    ```
-   ##### bin_maker.exe  ###############soon
+   ##### bin_maker.exe
+   ###### SOON!
 
 #### Linux
 
